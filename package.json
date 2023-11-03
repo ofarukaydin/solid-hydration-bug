@@ -17,7 +17,8 @@
     "solid-js": "^1.8.5",
     "solid-start": "^0.3.9",
     "solid-start-cloudflare-pages": "^0.3.9",
-    "wrangler": "^3.15.0"
+    "wrangler": "^3.15.0",
+    "solid-start-vercel": "0.3.9"
   },
   "engines": {
     "node": "18"
